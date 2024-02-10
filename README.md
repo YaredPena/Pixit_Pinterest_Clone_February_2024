@@ -5,16 +5,16 @@ Pinterest Clone Website
 Technologies: 
 
 Front-End:
-React.Js
-Material.UI
-Vite
+React.Js,
+Material.UI,
+Vite,
 
 Back-End:
 Firebase
 
 Languages:
-Javascript
-HTML
+Javascript,
+HTML,
 CSS
 
 Developed by Yared Pena
