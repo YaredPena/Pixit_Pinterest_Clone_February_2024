@@ -12,6 +12,8 @@ BACK-END:
 
 - Firebase
 
+Developed by Yared Pena
+
 ## How to Run
 
 In the project directory, you can run:
