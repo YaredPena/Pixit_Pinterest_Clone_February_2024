@@ -17,4 +17,4 @@ Javascript
 HTML
 CSS
 
-Developed by @Yared Pena
+Developed by Yared Pena
