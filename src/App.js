@@ -71,8 +71,6 @@ function App() {
 
         </div>
       </main>
-
-      {/* Search Container  */}
     </div>
   );
 }
