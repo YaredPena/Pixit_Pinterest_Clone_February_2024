@@ -2,6 +2,15 @@
 
 ## Technologies
 
+FRONT-END:
+
+- React.Js
+- Material.UI
+- Vite
+
+BACK-END:
+
+- Firebase
 
 ## How to Run
 
